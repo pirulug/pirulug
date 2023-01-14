@@ -31,7 +31,6 @@
 <p align="center">
   <samp>
     [<a href="https://twitter.com/pirulug">twitter</a>]
-    [<a href="https://instagram.com/pirulug">instagram</a>]
     [<a href="mailto:pirulug@gmail.com">e-mail</a>]
   </samp>
 </p>
